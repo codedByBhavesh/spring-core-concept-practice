@@ -1,20 +1,28 @@
-## Spring Core – XML Configuration
+\# Section 2 - Spring Java Configuration
 
-This section contains my practice of Spring Core using XML-based configuration.
 
-## Topics Covered
 
-   - Spring Core
-   - IoC (Inversion of Control)
-   - Dependency Injection
-   - XML-based Configuration
-   - ApplicationContext
-   - Spring Beans
-   - Setter-based Dependency Injection
+\## Topics Covered
 
-## Technology Used
 
-- Java 21
-- Spring Framework
-- Maven
-- IntelliJ IDEA
+
+\- @Configuration
+
+\- @Bean
+
+\- ApplicationContext
+
+\- AnnotationConfigApplicationContext
+
+\- getBean()
+
+\- Java-based Spring Configuration
+
+
+
+\## Practice
+
+
+
+Created a Hotel example using Spring Java Configuration.
+
